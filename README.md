@@ -12,5 +12,3 @@ Settings are retrieved from the accompanying .ini file. It takes into account OS
 Written in SciTE-Lite Version 3.5.4
 
 Compiled in au2exe tool (to add Icon)
-
-.au3 files have language support with Notepad++
